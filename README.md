@@ -1,6 +1,6 @@
 # Part of Speech Tagger 
 
-Part of speech(POS) of a word is its grammatical property like noun, pronoun, verb, adjective etc. POS tagging is assigning words in a corpus with their respective parts of speech. The pos_tagger.ipynb notebook shows how to pos tag for custom corpus through nltk.
+Part of speech(POS) of a word is its grammatical property like noun, pronoun, verb, adjective etc. POS tagging is assigning words in a corpus with their respective parts of speech. The pos_tagger.ipynb notebook shows example of how to pos tag for custom corpus through nltk.
 
 * **Unigram** -
 Most frequent tag for the word in training corpus.
