@@ -26,4 +26,4 @@ HMM    |  43.64   |   87.27  | 43.64  | 51.41
 * Nltk (for tagged file reading etc.)
 * Scikit-learn
 
-####### Note: For industry strength solution use https://spacy.io/
+Note: For industry strength solution use https://spacy.io/
